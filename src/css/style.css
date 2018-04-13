@@ -18,3 +18,11 @@ body {
     left: 0;
     width: 100%;
     min-height: 700px; }
+  #home-section .card-form {
+    opacity: 0.8; }
+  #home-section .home-inner {
+    padding-top: 150px; }
+  #home-section .fa {
+    color: #008ed6;
+    background: #fff;
+    padding: 4px; }
